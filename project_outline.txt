@@ -1,0 +1,19 @@
+################################ MLOPs Zoomcamp ##########################
+
+Topics to Cover
+
+0. Set up project with github.
+1. Data Ingestion
+2. Data Transformation
+3. Model Trainer
+4. Model Evaluation
+5. Model Deployment
+
+
+
+############################ What Did I Learn ########################
+Point 1 - 
+Point 2 - 
+Point 3 - 
+Point 4 - 
+Point 5 - 
